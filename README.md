@@ -4,8 +4,6 @@
 
 A machine learning-powered web app for assessing cardiovascular risk based on health metrics. Built with Flask, trained in Jupyter, and enhanced with Google Gemini for personalized AI insights.
 
-**🔗 Live Demo:** [`Youtube Link - Demo`](https://www.youtube.com/watch?v=KYPaH3m38Wg)
-
 **📓 Notebook:** [`Cardio_Analysis.ipynb`](Cardio_Analysis.ipynb)
 
 ![Screenshot1](https://github.com/user-attachments/assets/e92b7543-566c-461b-8130-1d19760b58e9)
